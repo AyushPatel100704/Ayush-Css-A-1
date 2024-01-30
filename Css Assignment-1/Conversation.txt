@@ -1,0 +1,17 @@
+
+
+
+Name: "Myesha Patel"
+Age: 24
+Gender:Female
+Occupation: Web Developer
+Location: Brampton, Canada
+
+Bio: Myesha is a dignified web developer in a private IT company. She has good earning through her job, now want to settle down in her life and wants to buy her first dream house in Toronto. 
+Also her company is located in downtown Toronto, so she is looking for property which is close to her workplace.
+
+Purpose of Visit: Myesha is currently looking for house manually without comparing prices and other factors, she come across AR enterprise where she can buy property that suites her needs, also she can contact the broker directly via e-mail. Using the details of various properties featured on website she got to know about various price range. This helps her to make right decision before buying suitable property 
+
+
+
+
